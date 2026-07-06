@@ -22,4 +22,6 @@ Another improvement could be changing the fixed draw probability. It is unlikely
 
 A few other improvements can include exact score predictions instead of 1–0 or 0–0 defaults, momentum effects, and individual player effects.
 
+![2025–26 Elo Ratings](images/PL 25-26 Elo.png)
 
+![Monte Carlo Heatmap](
