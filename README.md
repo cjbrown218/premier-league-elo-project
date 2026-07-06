@@ -21,3 +21,9 @@ One thing I did not account for was the summer transfer window or any changes to
 Another improvement could be changing the fixed draw probability. It is unlikely draw probability will be 20% for every single match, so having it variable based on team strength or time of season could make this prediction model stronger.
 
 A few other improvements can include exact score predictions instead of 1–0 or 0–0 defaults, momentum effects, and individual player effects.
+## 2025–26 Elo Ratings
+![2025–26 Elo Ratings](images/PL 25-26 Elo.png)
+
+## Monte Carlo Results Heatmap
+![Monte Carlo Heatmap](images/PL Monte Carlo.png)
+
